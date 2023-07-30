@@ -21,7 +21,7 @@
 title: Gunnar Bachelor
 email: gnnrbachelor@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of tutorials and technical articles about whatever I'm working on.
+  I write about technology and its ever increasing social impact.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: justgnnr
