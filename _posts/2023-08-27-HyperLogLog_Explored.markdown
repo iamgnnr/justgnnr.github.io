@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Exploring HyperLogLog with Python"
-date:   2023-08-08
-categories: Biotechnology Longevity Bionics CRISPR Vaccine
+date:   2023-08-27
+categories: Python Algorithm Data
 ---
 
 ![Line of Servers](/assets/servers.jpg)
