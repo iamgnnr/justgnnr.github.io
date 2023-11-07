@@ -7,7 +7,7 @@ categories: Artificial Intelligence AI Machine Learning Singularity
 
 ![Floating Robot Holding a Brain](/assets/ai_brain.png)
 
-Metaculus, a forecasting enterprise, has established a worldwide community dedicated to analytical reasoning with the aim of tackling some of the most significant and complex questions facing the globe. In response to the question: When will an AI first pass a long, informed, adversarial Turing test? [the median consensus forecast pointed to the year 2028.](https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/) This intriguing result prompted me to gather insights from top figures in the artificial intelligence sector to see how their estimations for achieving AGI align.
+Metaculus, a forecasting enterprise, has established a worldwide community dedicated to analytical reasoning with the aim of tackling some of the most significant and complex questions facing the globe. In response to the question: When will an AI first pass a long, informed, adversarial Turing test? [the median consensus forecast pointed to the year 2028.](https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/) This result prompted me to gather predictions from top figures in the artificial intelligence sector to see how their views align.
 
 Dario Amodei (CEO and Cofounder of Anthropic) - [2 to 3 years](https://www.youtube.com/watch?v=Nlkk3glap_U)
 
