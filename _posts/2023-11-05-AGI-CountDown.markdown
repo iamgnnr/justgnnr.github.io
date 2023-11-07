@@ -7,7 +7,7 @@ categories: Artificial Intelligence AI Machine Learning Singularity
 
 ![Floating Robot Holding a Brain](/assets/ai_brain.png)
 
-Metaculus, a forecasting enterprise, has established a worldwide community dedicated to analytical reasoning with the aim of tackling some of the most significant and complex questions facing the globe. In response to the question: [When will an AI first pass a long, informed, adversarial Turing test?](https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/) the median consensus forecast pointed to the year 2028. This intriguing result prompted me to gather insights from top figures in the artificial intelligence sector to see how their estimations for achieving AGI align.
+Metaculus, a forecasting enterprise, has established a worldwide community dedicated to analytical reasoning with the aim of tackling some of the most significant and complex questions facing the globe. In response to the question: When will an AI first pass a long, informed, adversarial Turing test? [the median consensus forecast pointed to the year 2028.](https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/) This intriguing result prompted me to gather insights from top figures in the artificial intelligence sector to see how their estimations for achieving AGI align.
 
 Dario Amodei (CEO and Cofounder of Anthropic) - [2 to 3 years](https://www.youtube.com/watch?v=Nlkk3glap_U)
 
@@ -15,7 +15,7 @@ Ben Goertzel (Founder and CEO of SingularityNET) - [3 years](https://futurism.co
 
 Ray Kurzweil (Computer Scientist, Author, Inventor, Principle Researcher at Google) - [6 years.](https://futurism.com/kurzweil-claims-that-the-singularity-will-happen-by-2045)
 
-Elon Musk (CEO of Tesla, Founder, CEO, Chief Engineer of SpaceX.) - [6 years.](https://venturebeat.com/ai/elon-musk-reveals-xai-efforts-predicts-full-agi-by-2029/)
+Elon Musk (CEO of Tesla, Founder, CEO, and Chief Engineer of SpaceX.) - [6 years.](https://venturebeat.com/ai/elon-musk-reveals-xai-efforts-predicts-full-agi-by-2029/)
 
 John Carmack (Creator of Doom and Quake. Founder of Keen Technologies) - [60% chance in 7 years](https://youtu.be/I845O57ZSy4?si=BPdi-iQtqquNNKnq&t=14745)
 
