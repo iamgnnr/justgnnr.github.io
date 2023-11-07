@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When Should We Expect Artificial General Intelligence?"
-date:   2023-08-31
+date:   2023-11-07
 categories: Artificial Intelligence AI Machine Learning Singularity
 ---
 
