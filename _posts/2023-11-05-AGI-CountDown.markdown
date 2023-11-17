@@ -27,3 +27,4 @@ Ilya Sutskever (Chief Scientist at OpenAI) - [10 years](https://openai.com/blog/
 
 George Hinton (Computer Scientist and Pioneer of Neural Networks) - ["Between five and 20 years from now there's a 50 percent chance that AI systems will be smarter than us."](https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/#:~:text=Hinton%20believes%20that%20between%20five,keep%20its%20capabilities%20to%20itself) 
 
+The discussion around the advent of AGI and its implications, particularly the concept of a "fast takeoff" scenario, is gaining momentum among experts and enthusiasts alike. Once relegated to the realms of science fiction, this concept is now being seriously contemplated in scientific circles. I find it shocking that so many pioneers in the field are predicting AGI within the next decade. Even with my boundless tech enthusiasm, I find this a bit uncomfortable to think about. 
